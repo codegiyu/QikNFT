@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Quicksand:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* FONTS */
+    --dm-mono: "DM Mono", monospace;
+    --quicksand: "Quicksand", sans-serif;
+
+    /* COLORS */
+    --pink: #FD76CB;
+    --orange: #FFAC30;
+    --black: #000000;
+    --light: #FFFEFD;
+    --purple: #67267E;
+    --gradient: linear-gradient(98.62deg, #FFAC30 -27.91%, #FD01A7 102.96%);
+}
